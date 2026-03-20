@@ -187,37 +187,6 @@ Remaining = Current Holding − Selected Value
 * System loops back to address 0
 * Output stabilizes after **two full traversals**
 
----
 
-## Learning Outcomes
 
-* Implementation of data structures in hardware
-* Understanding of:
 
-  * ROM-based memory
-  * Comparator logic
-  * Sequential circuits
-  * Number system conversion
-* Modular design using 4-bit ICs
-
----
-
-## Project Structure (Optional)
-
-```text
-Linked-List-Hardware-Project
- ┣ README.md
- ┣ Proteus Files
- ┣ ROM Bin Files
- ┣ Circuit Diagrams
- ┗ Documentation
-```
-
----
-
-If you want, I can next make this **top-tier (resume-level)** by adding:
-
-* GitHub badges
-* “How to Run” section
-* Circuit diagrams + screenshots
-* Crisp 2-line project pitch (very useful for interviews)
