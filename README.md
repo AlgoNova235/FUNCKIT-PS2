@@ -120,6 +120,8 @@ Remaining = Current Holding − Selected Value
 * Modular design approach used
 
 ---
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/c1be8bc1-166d-4fa7-9c43-0c601589dd0e" />
+
 
 ## Components Used
 
